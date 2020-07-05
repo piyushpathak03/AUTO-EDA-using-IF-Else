@@ -15,4 +15,6 @@ Deployed at: _https://autoedatool.herokuapp.com/_
 • For __Source_Code__ :<br />
 Link: _https://github.com/piyushpathak03/AUTO-EDA-using-IF-Else_
 
+**Follow me @** _https://www.linkedin.com/in/piyushpathak03/_
+
 
